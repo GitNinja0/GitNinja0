@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">I am a frontend programmer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitninja" alt="gitninja" /></a> </p>
-
 - 🌱 Current Stack **not yet**
 
 - 💬 About Me **I am a full stack developer in progress with experiences using Wordpress, Photoshop, illustrator, inDesing and Figma**
