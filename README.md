@@ -10,6 +10,6 @@ Hello! I'm Juan Munguia, a junior full stack web developer with a passion for we
 - 😃 I'm known for my positive attitude and proactive approach to tackling challenges.
 
 ## Contact
-- Interested in collaborating on a project or just want to connect? Feel free to reach out to me through [LinkedIn]([https://www.linkedin.com/in/juanmunguia/])!
+- Interested in collaborating on a project or just want to connect? Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/juanmunguia/)!
 
 Thanks for visiting my profile!
